@@ -1,2 +1,3 @@
-# 2024-Sri-Lanka-Presidential-Election-Result-Analysis-Using-SQL-
-This project analyzes the 2024 Sri Lankan presidential election results using SQL queries to extract insights on voter trends, candidate performance, and party-wise distributions.
+# 📊 2024 Sri Lankan Presidential Election Data Analysis (SQL)
+This project presents a comprehensive data analysis of the 2024 Sri Lankan Presidential Election using SQL. The goal is to extract meaningful insights into voter behavior, candidate performance, party-wise statistics, and regional trends through structured SQL queries.
+# 📁 Dataset
