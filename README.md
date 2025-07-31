@@ -4,7 +4,7 @@ This project presents a comprehensive data analysis of the 2024 Sri Lankan Presi
 •	File Name: 
 - <a href = "https://github.com/shehanshi/2024-Sri-Lanka-Presidential-Election-Result-Analysis-Using-SQL-/blob/main/2024%20president%20election%20result.csv">2024 President Election Result </a>
 
-•	Source: Kaggle 
+•	Source: - <a href = "https://www.kaggle.com/datasets/govarthenanrajadurai/2024-sri-lankan-presidential-election-results"> Kaggle </a>
 
 •	Contents:
 The dataset includes district-wise and division-wise vote counts and vote percentages for all major presidential candidates.
