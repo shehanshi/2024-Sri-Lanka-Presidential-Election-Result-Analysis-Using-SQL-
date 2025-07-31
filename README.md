@@ -23,13 +23,12 @@ The dataset includes district-wise and division-wise vote counts and vote percen
 •	votes_percentage - Percentage of votes in the division
 
 ## ⚙️ Tools & Technologies
-Tool	                Purpose
+Tool	        -       Purpose
+SQL (MySQL)	 -     Data querying and analysis
+GitHub	      -    Version control and project sharing
+Excel/CSV	   -    Source dataset format
 
-SQL (MySQL)	      Data querying and analysis
 
-GitHub	           Version control and project sharing
-
-Excel/CSV	        Source dataset format
 
 ## 📌 SQL Analysis Performed
 This project uses pure SQL queries to analyze various aspects of the election data:
