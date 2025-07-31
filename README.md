@@ -1,7 +1,8 @@
 # 📊 2024 Sri Lankan Presidential Election Data Analysis (SQL)
 This project presents a comprehensive data analysis of the 2024 Sri Lankan Presidential Election using SQL. The goal is to extract meaningful insights into voter behavior, candidate performance, party-wise statistics, and regional trends through structured SQL queries.
 ## 📁 Dataset
-•	File Name: [https://github.com/shehanshi/2024-Sri-Lanka-Presidential-Election-Result-Analysis-Using-SQL-/blob/main/2024%20president%20election%20result.csv] 
+•	File Name: 
+- <a href = "https://github.com/shehanshi/2024-Sri-Lanka-Presidential-Election-Result-Analysis-Using-SQL-/blob/main/2024%20president%20election%20result.csv">2024 President Election Result </a>
 
 •	Source: Kaggle 
 
@@ -180,7 +181,8 @@ This project was developed to:
    
 3.	Import the dataset into your SQL database (e.g., MySQL Workbench)
    
-5.	Run the SQL queries from [https://github.com/shehanshi/2024-Sri-Lanka-Presidential-Election-Result-Analysis-Using-SQL-/blob/main/2024%20Election%20Results.sql]
+5.	Run the SQL queries from
+- <a href = "https://github.com/shehanshi/2024-Sri-Lanka-Presidential-Election-Result-Analysis-Using-SQL-/blob/main/2024%20Election%20Results.sql" >2024 Election Result </a>
    
 7.	Modify, extend, or visualize insights as needed
 
