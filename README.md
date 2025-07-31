@@ -23,7 +23,6 @@ The dataset includes district-wise and division-wise vote counts and vote percen
 •	votes_percentage - Percentage of votes in the division
 
 ## ⚙️ Tools & Technologies
-Tool	        -       Purpose
 
 SQL (MySQL)	 -     Data querying and analysis
 
