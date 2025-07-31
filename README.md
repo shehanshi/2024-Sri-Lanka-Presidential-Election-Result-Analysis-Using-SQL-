@@ -24,8 +24,11 @@ The dataset includes district-wise and division-wise vote counts and vote percen
 
 ## ⚙️ Tools & Technologies
 Tool	        -       Purpose
+
 SQL (MySQL)	 -     Data querying and analysis
+
 GitHub	      -    Version control and project sharing
+
 Excel/CSV	   -    Source dataset format
 
 
